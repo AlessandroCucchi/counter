@@ -1,6 +1,5 @@
-<p align="center">
+
  ![logo](/assets/counter-logo.PNG)
-</p>
 
 <h1 align="center">ClickCounter</h1>
 
