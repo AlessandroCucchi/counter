@@ -1,5 +1,5 @@
 
- ![logo](/assets/counter-logo.PNG)
+ ![logo]([/assets/counter-logo.PNG](https://i.imgur.com/TfAwmZi.mp4))
 
 <h1 align="center">ClickCounter</h1>
 
