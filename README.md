@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/counter-logo.PNG" alt="logo">
+  <img src="assets/counter-logo.PNG" alt="logo">
 </p>
 
 <h1 align="center">ClickCounter</h1>
