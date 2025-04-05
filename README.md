@@ -1,5 +1,7 @@
 
- ![](https://i.imgur.com/i8ZXSXx_d.png?maxwidth=520&shape=thumb&fidelity=high)
+ <p align="center">
+  <img src="https://i.imgur.com/i8ZXSXx_d.png?maxwidth=520&shape=thumb&fidelity=high" alt="logo">
+</p>
 
 <h1 align="center">ClickCounter</h1>
 
