@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/counter-logo.PNG" alt="logo">
+ ![logo](/assets/counter-logo.PNG)
 </p>
 
 <h1 align="center">ClickCounter</h1>
