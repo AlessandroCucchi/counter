@@ -27,7 +27,9 @@
 - Press the **'+'** button for more than one second to increment the score by one every 10 milliseconds.
 - Press the **'-'** button for more than one second to decrement the score by one every 10 milliseconds.
 
-![](https://i.imgur.com/TfAwmZi.mp4)
+<p align="center">
+  <img src="https://i.imgur.com/TfAwmZi.mp4" alt="logo">
+</p>
 
 ##### A preview of the code that I've used to achieve these functions:
 
