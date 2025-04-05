@@ -5,8 +5,9 @@
 
 <h1 align="center">ClickCounter</h1>
 <p align="center">
-<a href="clickcoounter.netlify.app">clickcounter.app</a>
+  <a href="https://clickcoounter.netlify.app">ClickCounter.app</a>
 </p>
+
 ---
 
 <h4 align="center">A simple counter app with buttons to + (increment), - (decrement), Auto (automated), and Reset to easily control and track the displayed number.</h4>
